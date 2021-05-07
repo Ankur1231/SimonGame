@@ -1,0 +1,37 @@
+body {
+  background-color: #c0fefc;
+  text-align: center;
+}
+h1 {
+  font-family: "Press Start 2P", cursive;
+  font-size: 3rem;
+  color: #3d84b8;
+  margin-top: 4rem;
+}
+button {
+  width: 200px;
+  height: 200px;
+  border-radius: 30%;
+  margin: 30px 30px 30px 30px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+.container {
+  padding-top: 20px;
+}
+#blue {
+  background-color: blue;
+}
+#red {
+  background-color: red;
+}
+#yellow {
+  background-color: yellow;
+}
+#green {
+  background-color: green;
+}
+.game-over {
+  background-color: red;
+}
